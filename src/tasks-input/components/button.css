@@ -1,0 +1,16 @@
+.button{
+  fill: #CA472D;
+  position: absolute;
+  right: 5px;
+  top: 8px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+  font-size: 44px;
+}
+
+.button:hover{
+  cursor: pointer;
+  fill: brown;
+}

@@ -1,0 +1,8 @@
+.list-container {
+  background-color: #f2f2f2;
+  border-radius: 30px;
+  height: 560px;
+  width: 680px;
+  position: relative;
+  overflow: hidden;
+}

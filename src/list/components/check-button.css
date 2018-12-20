@@ -1,0 +1,9 @@
+.checkButton{
+  display: inline;
+  fill: #CA472D
+}
+
+.checkButton:hover{
+  cursor: pointer;
+  fill: brown;
+}
